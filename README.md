@@ -7,7 +7,7 @@ and Im going to log the programs i write and the troubles I have here for refere
 Setup
 =====
 
-My Dev machine is an Intel 4930k, Running Fedora 19 and most importantly, and Nvidia gtx770.
+My Dev machine is an Intel 4930k, Running Fedora 19 and most importantly, an Nvidia gtx770.
 
 Im using the official Nvidia drivers through rpmfusion [http://www.if-not-true-then-false.com/2013/fedora-19-nvidia-guide/]
 in order to get the opencl libraries to be recognized by gcc, i made symlinks to them in my /usr/lib64 folder.
