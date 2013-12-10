@@ -2,7 +2,9 @@ opencl-adventure
 ================
 
 A diary of sorts for my exploration of opencl.  Ive wanted to learn opencl for a while now,
-and Im going to log the programs i write and the troubles I have here for reference
+and Im going to log the programs i write and the troubles I have here for reference. If anyone reading
+this has any issues following along with what ive done, send me a bug report or something and I'll
+share whatever knowledge I have.
 
 Setup
 =====
